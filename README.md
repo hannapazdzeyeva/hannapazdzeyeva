@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My personal GitHub account - https://github.com/HannaPleshko
+Feel free to reach out to me at yesenyasha.work.dev@gmail.com. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
