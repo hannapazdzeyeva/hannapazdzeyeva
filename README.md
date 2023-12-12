@@ -1,4 +1,4 @@
-### Hi there 👋
+### My personal GitHub account - https://github.com/HannaPleshko
 
 <!--
 **hannapazdzeyeva/hannapazdzeyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My personal GitHub account - https://github.com/HannaPleshko
 Feel free to reach out to me at yesenyasha.work.dev@gmail.com. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
